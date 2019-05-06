@@ -7,4 +7,5 @@ Massage salon site
 [Тип_2](https://maksakoviliya.github.io/massage/dist/type_2.html)   
 [404](https://maksakoviliya.github.io/massage/dist/404.html)   
 [Попап](https://maksakoviliya.github.io/massage/dist/popup.html)   
+[Спасибо за заявку](https://maksakoviliya.github.io/massage/dist/thks.html)   
 
